@@ -1,2 +1,1 @@
 # firstOnLinux
-hello
